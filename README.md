@@ -12,6 +12,8 @@
 
 * [Statistical Paradises and Paradoxes in Big Data](https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes_in_big_data_.pdf); Xiao-Li Meng; (...) Paradise gained or lost? Data quality-quantity tradeoff. (“Which one should I trust more: a 1% survey with 60% response rate or a non-probabilistic dataset covering 80% of the population?”); Data Quality × Data Quantity × Problem Difficulty; 
 
+* [Explanation Methods in Deep Learning: Users, Values, Concerns and Challenges](https://arxiv.org/pdf/1803.07517.pdf); Gabrielle Ras, Marcel van Gerven, Pim Haselager; Issues regarding explainable AI involve four components: users, laws & regulations, explanations and algorithms. Overall, it is clear that (visual) explanations can be given about various aspects of the influence of the input on the output ... It is likely that in the future we will see the rise of a new category of explanation methods that combine aspects of rule-extraction, attribution and intrinsic methods, to answer specific questions in a simple human interpretable language. Furthermore, it is obvious that current explanation methods are tailored to expert users, since the interpretation of the results require knowledge of the DNN process. As far as we are aware, explanation methods, e.g. intuitive explanation interfaces, for lay users do not exist.
+
 ### 2017
 
 * [Detecting concept drift in data streams using model explanation](https://www.researchgate.net/publication/320177686_Detecting_concept_drift_in_data_streams_using_model_explanation); Jaka Demšar, Zoran Bosnic; Interesting use case for explainers - PDP like explainers are used to identify concept drift.
