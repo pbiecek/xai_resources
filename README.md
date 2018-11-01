@@ -16,6 +16,7 @@
 
 * [Detecting concept drift in data streams using model explanation](https://www.researchgate.net/publication/320177686_Detecting_concept_drift_in_data_streams_using_model_explanation); Jaka Demšar, Zoran Bosnic; Interesting use case for explainers - PDP like explainers are used to identify concept drift.
 * [Explanation of Prediction Models with ExplainPrediction](http://www.informatica.si/index.php/informatica/article/view/2227/1121) intoroduces two methods EXPLAIN and IME (R packages) for local and global explanations.
+* [What do we need to build explainable AI systems for the medical domain?](https://arxiv.org/pdf/1712.09923.pdf); Andreas Holzinger, Chris Biemann, Constantinos Pattichis, Douglas Kell. In this paper we outline some of our research topics in the context of the relatively new area of explainable-AI with a focus on the application in medicine, which is a very special domain. This is due to the fact that medical professionals are working mostly with distributed heterogeneous and complex sources of data. In this paper we concentrate on three sources: images, omics data and text. We argue that research in explainable-AI would generally help to facilitate the implementation of AI/ML in the medical domain, and specifically help to facilitate transparency and trust.  However, the full effectiveness of all AI/ML success is limited by the algorithm’s inabilities to explain its results to human experts - but exactly this is a big issue in the medical domain.
 
 ### 2016 
 
