@@ -59,3 +59,11 @@
 
 ## Articles
 
+## Theses
+
+### 2018 
+
+* [Shedding Light on Black Box Machine Learning Algorithms, Development of an Axiomatic Framework to Assess the Quality of Methods that Explain Individual Predictions](https://arxiv.org/pdf/1808.05054.pdf) Milo Honegger; 
+
+
+
