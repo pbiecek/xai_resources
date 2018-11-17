@@ -79,6 +79,10 @@
 
 ## Articles
 
+### 2018
+
+* [Explainable AI won’t deliver. Here’s why](https://hackernoon.com/explainable-ai-wont-deliver-here-s-why-6738f54216be); Cassie Kozyrkov; Interpretability: you do understand it but it doesn’t work well. Performance: you don’t understand it but it does work well. Why not have both?
+
 ## Theses
 
 ### 2018 
