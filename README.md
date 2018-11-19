@@ -85,6 +85,13 @@
 
 * [Explainable AI won’t deliver. Here’s why](https://hackernoon.com/explainable-ai-wont-deliver-here-s-why-6738f54216be); Cassie Kozyrkov; Interpretability: you do understand it but it doesn’t work well. Performance: you don’t understand it but it does work well. Why not have both?
 
+* [We Need an FDA For Algorithms](http://nautil.us/issue/66/clockwork/we-need-an-fda-for-algorithms);  Hannah Fry; Do we need to develop a brand-new intuition about how to interact with algorithms? What do you mean when you say that the best algorithms are the ones that take the human into account at every stage? What is the most dangerous algorithm?
+
+* [Explainable AI, interactivity and HCI](https://www.linkedin.com/pulse/explainable-ai-interactivity-hci-erik-stolterman-bergqvist/); 
+Erik Stolterman Bergqvist; develop AI systems that technically can explain their inner workings in some way that makes sense to people. approach the XAI from a legal point of view. explanable AI is needed for practical reasons, pproach the topic from a more philosophical perspective and ask some broader questions about how reasonable it is for humans to ask systems to be able to explain their actions
+
+* [Why your firm must embrace explainable AI to get ahead of the hype and understand the business logic of AI](https://www.hfsresearch.com/pointsofview/escape-the-black-box-take-steps-toward-explainable-ai-today-or-risk-damaging-your-business); Maria Terekhova; If AI is to have true business-ready capabilities, it will only succeed if we can design the business logic behind it. That means business leaders who are steeped in business logic need to be front-and-center in the AI design and management processes.
+
 ## Theses
 
 ### 2018 
