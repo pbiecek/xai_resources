@@ -91,6 +91,8 @@
 Erik Stolterman Bergqvist; develop AI systems that technically can explain their inner workings in some way that makes sense to people. approach the XAI from a legal point of view. explanable AI is needed for practical reasons, pproach the topic from a more philosophical perspective and ask some broader questions about how reasonable it is for humans to ask systems to be able to explain their actions
 
 * [Why your firm must embrace explainable AI to get ahead of the hype and understand the business logic of AI](https://www.hfsresearch.com/pointsofview/escape-the-black-box-take-steps-toward-explainable-ai-today-or-risk-damaging-your-business); Maria Terekhova; If AI is to have true business-ready capabilities, it will only succeed if we can design the business logic behind it. That means business leaders who are steeped in business logic need to be front-and-center in the AI design and management processes.
+ 
+* [Explainable AI : The margins of accountability](https://www.information-age.com/explainable-ai-123476397/); Yaroslav Kuflinski; How much can anyone trust a recommendation from an AI? Increasing the adoption of ethics in artificial intelligence
 
 ## Theses
 
