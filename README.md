@@ -110,3 +110,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [Proceedings of the 2018 ICML Workshop on Human Interpretability in Machine Learning (WHI 2018)](https://arxiv.org/html/1807.01308)
 
 
+## Other
+
+* FAT ML [Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/)
+
