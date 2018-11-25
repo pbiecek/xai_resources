@@ -89,6 +89,8 @@
 
 ### 2018
 
+* [Taking machine thinking out of the black box](https://news.mit.edu/2018/mit-lincoln-laboratory-adaptable-interpretable-machine-learning-0905); Anne McGovern; Adaptable Interpretable Machine Learning project is redesigning machine learning models so humans can understand what computers are thinking.
+
 * [Explainable AI won’t deliver. Here’s why](https://hackernoon.com/explainable-ai-wont-deliver-here-s-why-6738f54216be); Cassie Kozyrkov; Interpretability: you do understand it but it doesn’t work well. Performance: you don’t understand it but it does work well. Why not have both?
 
 * [We Need an FDA For Algorithms](http://nautil.us/issue/66/clockwork/we-need-an-fda-for-algorithms);  Hannah Fry; Do we need to develop a brand-new intuition about how to interact with algorithms? What do you mean when you say that the best algorithms are the ones that take the human into account at every stage? What is the most dangerous algorithm?
