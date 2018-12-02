@@ -83,6 +83,7 @@
 
 ### 2018
 
+* [Weight Watcher](https://github.com/CalculatedContent/WeightWatcher); Charles Martin; Weight Watcher analyzes the Fat Tails in the weight matrices of Deep Neural Networks (DNNs). This tool can predict the trends in the generalization accuracy of a series of DNNs, such as VGG11, VGG13, ..., or even the entire series of ResNet models--without needing a test set ! This relies upon recent research into the Heavy (Fat) Tailed Self Regularization in DNNs 
 * [Adversarial Robustness Toolbox - ART](https://github.com/IBM/adversarial-robustness-toolbox); This is a library dedicated to adversarial machine learning. Its purpose is to allow rapid crafting and analysis of attacks and defense methods for machine learning models. The Adversarial Robustness Toolbox provides an implementation for many state-of-the-art methods for attacking and defending classifiers.
 * [Model Describer](https://github.com/DataScienceSquad/model-describer); Python script that generates html report that summarizes predictive models. Interactive and rich in descriptions.
 * [AI Fairness 360](https://github.com/IBM/aif360); Python library developed by IBM to help detect and remove bias in machine learning models. [Some introduction](https://arxiv.org/abs/1810.01943)
@@ -95,6 +96,8 @@
 ## Articles
 
 ### 2018
+
+* [Why We Need to Audit Algorithms](https://hbr.org/2018/11/why-we-need-to-audit-algorithms); James Guszcza Iyad Rahwan Will Bible Manuel Cebrian Vic Katyal; Algorithmic decision-making and artificial intelligence (AI) hold enormous potential and are likely to be economic blockbusters, but we worry that the hype has led many people to overlook the serious problems of introducing algorithms into business and society. Indeed, we see many succumbing to what Microsoft’s Kate Crawford calls “data fundamentalism” — the notion that massive datasets are repositories that yield reliable and objective truths, if only we can extract them using machine learning tools. A more nuanced view is needed. It is by now abundantly clear that, left unchecked, AI algorithms embedded in digital and social technologies can encode societal biases, accelerate the spread of rumors and disinformation, amplify echo chambers of public opinion, hijack our attention, and even impair our mental wellbeing.
 
 * [Taking machine thinking out of the black box](https://news.mit.edu/2018/mit-lincoln-laboratory-adaptable-interpretable-machine-learning-0905); Anne McGovern; Adaptable Interpretable Machine Learning project is redesigning machine learning models so humans can understand what computers are thinking.
 
