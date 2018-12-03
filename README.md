@@ -122,6 +122,9 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 * [Shedding Light on Black Box Machine Learning Algorithms, Development of an Axiomatic Framework to Assess the Quality of Methods that Explain Individual Predictions](https://arxiv.org/pdf/1808.05054.pdf) Milo Honegger; 
 
+### 2016
+
+* [Uncertainty and Label Noise in Machine Learning](https://dial.uclouvain.be/pr/boreal/object/boreal:134618/datastream/PDF_01/view); Benoit Frenay; This thesis addresses three challenge of machine learning: high-dimensional data, label noise and limited computational resources.
 
 ## Workshops
 
