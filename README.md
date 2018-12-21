@@ -104,6 +104,8 @@
 
 ### 2018
 
+* [Regulating Black-Box Medicine](http://michiganlawreview.org/regulating-black-box-medicine/); Data drive modern medicine. And our tools to analyze those data are growing ever more powerful. As health data are collected in greater and greater amounts, sophisticated algorithms based on those data can drive medical innovation, improve the process of care, and increase efficiency. Those algorithms, however, vary widely in quality. Some are accurate and powerful, while others may be riddled with errors or based on faulty science. When an opaque algorithm recommends an insulin dose to a diabetic patient, how do we know that dose is correct? Patients, providers, and insurers face substantial difficulties in identifying high-quality algorithms; they lack both expertise and proprietary information. How should we ensure that medical algorithms are safe and effective?
+
 * [3 Signs of a Good AI Model](https://tdwi.org/articles/2018/11/26/adv-all-3-signs-of-a-good-ai-model.aspx); Troy Hiltbrand; Until recently, the success of an AI project was judged only by its outcomes for the company, but an emerging industry trend suggests another goal -- explainable artificial intelligence (XAI). The gravitation toward XAI stems from demand from consumers (and ultimately society) to better understand how AI decisions are made. Regulations, such as the General Data Protection Regulation (GDPR) in Europe, have increased the demand for more accountability when AI is used to make automated decisions, especially in cases where bias has a detrimental effect on individuals.
 
 * [Rapid new advances are now underway in AI](https://www.technative.io/why-its-important-to-create-a-movement-around-explainable-ai/); Yet, as AI gets more widely deployed, the importance of having explainable models will increase. Simply, if systems are responsible for making a decision, there comes a step in the process whereby that decision has to be shown — communicating what the decision is, how it was made and – now – why did the AI do what it did.
@@ -132,6 +134,14 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 ### 2016
 
 * [Uncertainty and Label Noise in Machine Learning](https://dial.uclouvain.be/pr/boreal/object/boreal:134618/datastream/PDF_01/view); Benoit Frenay; This thesis addresses three challenge of machine learning: high-dimensional data, label noise and limited computational resources.
+
+## Audio
+
+### 2018
+
+* [Approaches to Fairness in Machine Learning with Richard Zemel](https://twimlai.com/twiml-talk-209-approaches-to-fairness-in-machine-learning-with-richard-zemel/); Today we continue our exploration of Trust in AI with this interview with Richard Zemel, Professor in the department of Computer Science at the University of Toronto and Research Director at Vector Institute.
+
+* [Making Algorithms Trustworthy with David Spiegelhalter](https://twimlai.com/twiml-talk-212-making-algorithms-trustworthy-with-david-speigelhalter/); In this, the second episode of our NeurIPS series, we’re joined by David Spiegelhalter, Chair of Winton Center for Risk and Evidence Communication at Cambridge University and President of the Royal Statistical Society.
 
 ## Workshops
 
