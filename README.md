@@ -100,6 +100,7 @@
 ### 2017
 
 * [Explanation Explorer](https://github.com/nyuvis/explanation_explorer); Visual tool implemented in python for visual diagnostics of binary classifiers using lnstance-level explanations (local explainers).
+* [ggeffects](https://strengejacke.wordpress.com/2017/05/24/ggeffects-create-tidy-data-frames-of-marginal-effects-for-ggplot-from-model-outputs-rstats/); Create Tidy Data Frames of Marginal Effects for ‚ggplot‘ from Model Outputs, The aim of the ggeffects-package is similar to the broom-package: transforming “untidy” input into a tidy data frame, especially for further use with ggplot. However, ggeffects does not return model-summaries; rather, this package computes marginal effects at the mean or average marginal effects from statistical models and returns the result as tidy data frame (as tibbles, to be more precisely).
 
 ## Articles
 
