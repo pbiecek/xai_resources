@@ -162,8 +162,13 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [21 fairness definitions and their politics](https://fairmlbook.org/tutorial2.html); This tutorial has two goals. The first is to explain the technical definitions. In doing so, I will aim to make explicit the values embedded in each of them. This will help policymakers and others better understand what is truly at stake in debates about fairness criteria (such as individual fair­ness versus group fairness, or statistical parity versus error-rate equality). It will also help com­puter scientists recognize that the proliferation of definitions is to be celebrated, not shunned, and that the search for one true definition is not a fruitful direction, as technical considerations cannot adjudicate moral debates.
 * [Proceedings of the 2018 ICML Workshop on Human Interpretability in Machine Learning (WHI 2018)](https://arxiv.org/html/1807.01308)
 
+### 2017
+
+* [NIPS 2017 Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html); Solon Barocas, Moritz Hardt
 
 ## Other
 
 * FAT ML [Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/)
+* CS 294: Fairness in Machine Learning [Fairness Berkeley](https://fairmlclass.github.io/)
+* [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/fairness-overview/)
 
