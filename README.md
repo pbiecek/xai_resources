@@ -110,6 +110,9 @@
 
 ### 2018
 
+* [The Five Tribes of Machine Learning Explainers](https://www.slideshare.net/lopusz/the-five-tribes-of-machine-learning-explainers); Michał Łopuszyński; Lightning talk from PyData Berlin 2018
+
+
 * [A Case For Explainable AI & Machine Learning](https://www.kdnuggets.com/2018/12/explainable-ai-machine-learning.html); Very nice list of possible use-cases for XAI, examples: Energy theft detection - Different types of theft require different action by the investigators; Credit scoring - he Fair Credit Reporting Act (FCRA) is a federal law that regulates credit reporting agencies and compels them to insure the information they gather and distribute is a fair and accurate summary of a consumer's credit history; Video threat detection - Flagging an individual as a threat has a potential for significant legal implications; 
 
 * [Ethics of AI: A data scientist’s perspective](https://medium.com/@QuantumBlack/ethics-of-ai-a-data-scientists-perspective-cb7cdb1c8392); QuantumBlack
@@ -171,4 +174,4 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * FAT ML [Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/)
 * CS 294: Fairness in Machine Learning [Fairness Berkeley](https://fairmlclass.github.io/)
 * [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/fairness-overview/)
-
+* [Awesome Interpretable Machine Learning ](https://github.com/lopusz/awesome-interpretable-machine-learning) by Michał Łopuszyński
