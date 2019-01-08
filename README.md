@@ -56,6 +56,7 @@
 
 ### 2017
 
+* [Attentive Explanations: Justifying Decisions and Pointing to the Evidence](https://arxiv.org/pdf/1711.07373.pdf); Dong Huk Park et al; Deep models are the defacto standard in visual decision problems due to their impressive performance on a wide array of visual tasks. We propose two large-scale datasets with annotations that visually and textually justify a classification decision for various activities, i.e. ACT-X, and for question answering, i.e. VQA-X. 
 * [SPINE: SParse Interpretable Neural Embeddings](https://arxiv.org/abs/1711.08792); Anant Subramanian, Danish Pruthi, Harsh Jhamtani, Taylor Berg-Kirkpatrick, Eduard Hovy; Prediction without justification has limited utility. Much of the success of neural models can be attributed to their ability to learn rich, dense and expressive representations. While these representations capture the underlying complexity and latent trends in the data, they are far from being interpretable. We propose a novel variant of denoising k-sparse autoencoders that generates highly efficient and interpretable distributed word representations (word embeddings), beginning with existing word representations from state-of-the-art methods like GloVe and word2vec. Through large scale human evaluation, we report that our resulting word embedddings are much more interpretable than the original GloVe and word2vec embeddings. Moreover, our embeddings outperform existing popular word embeddings on a diverse suite of benchmark downstream tasks.
 
 * [Detecting concept drift in data streams using model explanation](https://www.researchgate.net/publication/320177686_Detecting_concept_drift_in_data_streams_using_model_explanation); Jaka Demšar, Zoran Bosnic; Interesting use case for explainers - PDP like explainers are used to identify concept drift.
@@ -177,6 +178,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 ### 2017
 
 * [NIPS 2017 Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html); Solon Barocas, Moritz Hardt
+* [Interpretability for AI safety](http://s.interpretable.ml/nips_interpretable_ml_2017_victoria_Krakovna.pdf); Victoria Krakovna; Long-term AI safety, Reliably specifying human preferences and values to advanced AI systems, Setting incentives for AI systems that are aligned with these preferences
 
 ## Other
 
