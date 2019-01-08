@@ -52,6 +52,8 @@
 
 * [A comparative study of fairness-enhancing interventions in machine learning](https://arxiv.org/pdf/1802.04422.pdf); Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian, Sonam Choudhary, Evan P. Hamilton, Derek Roth; Computers are increasingly used to make decisions that have significant impact in people's lives. Often, these predictions can affect different population subgroups disproportionately. As a result, the issue of fairness has received much recent interest, and a number of fairness-enhanced classifiers and predictors have appeared in the literature. This paper seeks to study the following questions: how do these different techniques fundamentally compare to one another, and what accounts for the differences? Specifically, we seek to bring attention to many under-appreciated aspects of such fairness-enhancing interventions. Concretely, we present the results of an open benchmark we have developed that lets us compare a number of different algorithms under a variety of fairness measures, and a large number of existing datasets. We find that although different algorithms tend to prefer specific formulations of fairness preservations, many of these measures strongly correlate with one another. In addition, we find that fairness-preserving algorithms tend to be sensitive to fluctuations in dataset composition (simulated in our benchmark by varying training-test splits), indicating that fairness interventions might be more brittle than previously thought.
 
+* [Check yourself before you wreck yourself: Assessing discrete choice models through predictive simulations](https://arxiv.org/abs/1806.02307); Timothy Brathwaite; Graphical model checks : Typically, discrete choice modelers develop ever-more advanced models and estimation methods. Compared to the impressive progress in model development and estimation, model-checking techniques have lagged behind. Often, choice modelers use only crude methods to assess how well an estimated model represents reality. Such methods usually stop at checking parameter signs, model elasticities, and ratios of model coefficients. In this paper, I greatly expand the discrete choice modelers' assessment toolkit by introducing model checking procedures based on graphical displays of predictive simulations. 
+
 ### 2017
 
 * [SPINE: SParse Interpretable Neural Embeddings](https://arxiv.org/abs/1711.08792); Anant Subramanian, Danish Pruthi, Harsh Jhamtani, Taylor Berg-Kirkpatrick, Eduard Hovy; Prediction without justification has limited utility. Much of the success of neural models can be attributed to their ability to learn rich, dense and expressive representations. While these representations capture the underlying complexity and latent trends in the data, they are far from being interpretable. We propose a novel variant of denoising k-sparse autoencoders that generates highly efficient and interpretable distributed word representations (word embeddings), beginning with existing word representations from state-of-the-art methods like GloVe and word2vec. Through large scale human evaluation, we report that our resulting word embedddings are much more interpretable than the original GloVe and word2vec embeddings. Moreover, our embeddings outperform existing popular word embeddings on a diverse suite of benchmark downstream tasks.
@@ -112,7 +114,6 @@
 
 * [The Five Tribes of Machine Learning Explainers](https://www.slideshare.net/lopusz/the-five-tribes-of-machine-learning-explainers); Michał Łopuszyński; Lightning talk from PyData Berlin 2018
 
-
 * [A Case For Explainable AI & Machine Learning](https://www.kdnuggets.com/2018/12/explainable-ai-machine-learning.html); Very nice list of possible use-cases for XAI, examples: Energy theft detection - Different types of theft require different action by the investigators; Credit scoring - he Fair Credit Reporting Act (FCRA) is a federal law that regulates credit reporting agencies and compels them to insure the information they gather and distribute is a fair and accurate summary of a consumer's credit history; Video threat detection - Flagging an individual as a threat has a potential for significant legal implications; 
 
 * [Ethics of AI: A data scientist’s perspective](https://medium.com/@QuantumBlack/ethics-of-ai-a-data-scientists-perspective-cb7cdb1c8392); QuantumBlack
@@ -139,6 +140,14 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [Why your firm must embrace explainable AI to get ahead of the hype and understand the business logic of AI](https://www.hfsresearch.com/pointsofview/escape-the-black-box-take-steps-toward-explainable-ai-today-or-risk-damaging-your-business); Maria Terekhova; If AI is to have true business-ready capabilities, it will only succeed if we can design the business logic behind it. That means business leaders who are steeped in business logic need to be front-and-center in the AI design and management processes.
  
 * [Explainable AI : The margins of accountability](https://www.information-age.com/explainable-ai-123476397/); Yaroslav Kuflinski; How much can anyone trust a recommendation from an AI? Increasing the adoption of ethics in artificial intelligence
+
+### 2017
+
+* [AI Could Resurrect a Racist Housing Policy](https://motherboard.vice.com/en_us/article/4x44dp/ai-could-resurrect-a-racist-housing-policy) And why we need transparency to stop it.- "The fact that we can't investigate the COMPAS algorithm is a problem"
+
+### 2016
+
+* [How We Analyzed the COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm); ProPublica investigation. Black defendants were often predicted to be at a higher risk of recidivism than they actually were. Our analysis found that black defendants who did not recidivate over a two-year period were nearly twice as likely to be misclassified as higher risk compared to their white counterparts (45 percent vs. 23 percent). The analysis also showed that even when controlling for prior crimes, future recidivism, age, and gender, black defendants were 45 percent more likely to be assigned higher risk scores than white defendants.
 
 ## Theses
 
