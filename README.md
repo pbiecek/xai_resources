@@ -128,6 +128,8 @@
 
 ### 2019
 
+* [Automatic Machine Learning is broken](https://pplonski.github.io/automatic-machine-learning-is-broken/); Debt that comes with maintenance and understand of complex models 
+* [Charles River Analytics creates tool to help AI communicate effectively with humans](http://mil-embedded.com/news/charles-river-analytics-creates-tool-to-help-ai-communicate-effectively-with-humans/); Developer of intelligent systems solutions, Charles River Analytics Inc. created the Causal Models to Explain Learning (CAMEL) approach under the Defense Advanced Research Projects Agency's (DARPA) Explainable Artificial Intelligence (XAI) effort. The goal of the CAMEL tool approach will be help artificial intelligence effectively communicate with human teammates.
 * [Inside DARPA’s effort to create explainable artificial intelligence](https://bdtechtalks.com/2019/01/10/darpa-xai-explainable-artificial-intelligence/); Among DARPA’s many exciting projects is Explainable Artificial Intelligence (XAI), an initiative launched in 2016 aimed at solving one of the principal challenges of deep learning and neural networks, the subset of AI that is becoming increasing prominent in many different sectors.
 
 ### 2018
