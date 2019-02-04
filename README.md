@@ -192,6 +192,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 ### 2018
 
+* [Explaining Explainable AI](https://www.brighttalk.com/webcast/16463/346891/explaining-explainable-ai); In this webinar, we will conduct a panel discussion with Patrick Hall and Tom Aliff around the business requirements of explainable AI and the subsequent value that can benefit any organization
 * [Approaches to Fairness in Machine Learning with Richard Zemel](https://twimlai.com/twiml-talk-209-approaches-to-fairness-in-machine-learning-with-richard-zemel/); Today we continue our exploration of Trust in AI with this interview with Richard Zemel, Professor in the department of Computer Science at the University of Toronto and Research Director at Vector Institute.
 
 * [Making Algorithms Trustworthy with David Spiegelhalter](https://twimlai.com/twiml-talk-212-making-algorithms-trustworthy-with-david-speigelhalter/); In this, the second episode of our NeurIPS series, we’re joined by David Spiegelhalter, Chair of Winton Center for Risk and Evidence Communication at Cambridge University and President of the Royal Statistical Society.
@@ -200,7 +201,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 ### 2018
 
-* [21 fairness definitions and their politics](https://fairmlbook.org/tutorial2.html); This tutorial has two goals. The first is to explain the technical definitions. In doing so, I will aim to make explicit the values embedded in each of them. This will help policymakers and others better understand what is truly at stake in debates about fairness criteria (such as individual fair­ness versus group fairness, or statistical parity versus error-rate equality). It will also help com­puter scientists recognize that the proliferation of definitions is to be celebrated, not shunned, and that the search for one true definition is not a fruitful direction, as technical considerations cannot adjudicate moral debates.
+* [21 fairness definitions and their politics](https://fairmlbook.org/tutorial2.html); This tutorial has two goals. The first is to explain the technical definitions. In doing so, I will aim to make explicit the values embedded in each of them. This will help policymakers and others better understand what is truly at stake in debates about fairness criteria (such as individual fairness versus group fairness, or statistical parity versus error-rate equality). It will also help com­puter scientists recognize that the proliferation of definitions is to be celebrated, not shunned, and that the search for one true definition is not a fruitful direction, as technical considerations cannot adjudicate moral debates.
 * [Proceedings of the 2018 ICML Workshop on Human Interpretability in Machine Learning (WHI 2018)](https://arxiv.org/html/1807.01308)
 
 ### 2017
