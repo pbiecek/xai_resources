@@ -138,6 +138,7 @@
 
 ### 2018
 
+* [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/); Chris Olah ...; Interpretability techniques are normally studied in isolation. We explore the powerful interfaces that arise when you combine them — and the rich structure of this combinatorial space
 * [Why Machine Learning Interpretability Matters](https://blog.dataiku.com/why-machine-learning-interpretability-matters); Even though machine learning (ML) has been around for decades, it seems that in the last year, much of the news (notably in mainstream media) surrounding it has turned to interpretability - including ideas like trust, the ML black box, and fairness or ethics. Surely, if the topic is growing in popularity, that must mean it’s important. But why, exactly - and to whom?
 * [IBM, Harvard develop tool to tackle black box problem in AI translation](https://venturebeat.com/2018/11/01/ibm-harvard-develop-tool-to-tackle-black-box-problem-in-ai-translation/); seq2seq vis; Researchers at IBM and Harvard University have developed a new debugging tool to address this issue. Presented at the IEEE Conference on Visual Analytics Science and Technology in Berlin last week, the tool lets creators of deep learning applications visualize the decision-making an AI makes when translating a sequence of words from one language to another.
 * [The Five Tribes of Machine Learning Explainers](https://www.slideshare.net/lopusz/the-five-tribes-of-machine-learning-explainers); Michał Łopuszyński; Lightning talk from PyData Berlin 2018
