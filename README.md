@@ -94,6 +94,11 @@
 
 * [How to Explain Individual Classification Decisions](https://arxiv.org/pdf/0912.1128.pdf), David Baehrens, Timon Schroeter, Stefan Harmeling, Motoaki Kawanabe, Katja Hansen, Klaus-Robert Muller; (from abstract) The only method that is currently able to provide such explanations are decision trees. ... Model agnostic method, introduces *explanation vectors* that summarise steepness of changes of model decisions as function of model inputs.
 
+### 2005
+
+* [The Tyranny of Tacit Knowledge: What Artificial Intelligence Tells us About Knowledge Representation
+](https://www.researchgate.net/publication/224755645_The_Tyranny_of_Tacit_Knowledge_What_Artificial_Intelligence_Tells_us_About_Knowledge_Representation); Kurt D. Fenstermacher; Polanyi's tacit knowledge captures the idea "we can know more than we can tell." Many researchers in the knowledge management community have used the idea of tacit knowledge to draw a distinction between that which cannot be formally represented (tacit knowledge) and knowledge which can be so represented (explicit knowledge). I argue that the deference that knowledge management researchers give to tacit knowledge hinders potentially fruitful work for two important reasons. First, the inability to explicate knowledge does not imply that the knowledge cannot be formally represented. Second, assuming the inability to formalize tacit knowledge as it exists in the minds of people does not exclude the possibility that computer systems might perform the same tasks using alternative representations. By reviewing work from artificial intelligence, I will argue that a richer model of cognition and knowledge representation is needed to study and build knowledge management systems.
+
 ### 2004
 
 * [Discovering additive structure in black box functions](https://dl.acm.org/citation.cfm?doid=1014052.1014122), Giles Hooker
@@ -112,6 +117,7 @@
 
 ### 2019
 
+* [heatmapping.org](http://www.heatmapping.org/); This webpage aims to regroup publications and software produced as part of a joint project at Fraunhofer HHI, TU Berlin and SUTD Singapore on developing new method to understand nonlinear predictions of state-of-the-art machine learning models. Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many case, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artefacts. The project studies in particular techniques to decompose the prediction in terms of contributions of individual input variables such that the produced decomposition (i.e. explanation) can be visualized in the same way as the input data.
 * [ggeffects](https://strengejacke.wordpress.com/2019/01/14/ggeffects-0-8-0-now-on-cran-marginal-effects-for-regression-models-rstats/); Daniel Lüdecke; Compute marginal effects from statistical models and returns the result as tidy data frames. These data frames are ready to use with the 'ggplot2'-package. Marginal effects can be calculated for many different models. Interaction terms, splines and polynomial terms are also supported. The main functions are ggpredict(), ggemmeans() and ggeffect(). There is a generic plot()-method to plot the results using 'ggplot2'.
 
 ### 2018
@@ -135,6 +141,7 @@
 
 ### 2019
 
+* [Why ‘Explainable AI’ is the Next Frontier in Financial Crime Fighting ](http://www.bankingexchange.com/news-feed/item/7785-why-explainable-ai-is-the-next-frontier-in-financial-crime-fighting); Chad Hetherington; Financial institutions (FIs) must manage compliance budgets without losing sight of primary functions and quality control. To answer this, many have made the move to automating time-intensive, rote tasks like data gathering and sorting through alerts by adopting innovative technologies like AI and machine learning to free up time-strapped analysts for more informed and precise decision-making processes.
 * [Machine Learning Interpretability: Do You Know What Your Model Is Doing?](https://www.inovex.de/blog/machine-learning-interpretability/); Marcel Spitzer; With the adoption of GDPR, there are now EU-wide regulations concerning automated individual decision-making and profiling (Art. 22, also termed „right to explanation“), engaging companies to give individuals information about processing, to introduce ways for them to request intervention and to even carry out regular checks to make sure that the systems are working as intended. 
 * [Building explainable machine learning models](https://www.fastdatascience.com/2019/02/08/building-explainable-machine-learning-models/); Thomas Wood; Sometimes as data scientists we will encounter cases where we need to build a machine learning model that should not be a black box, but which should make transparent decisions that humans can understand. This can go against our instincts as scientists and engineers, as we would like to build the most accurate model possible.
 * [AI is not IT](https://www.linkedin.com/pulse/ai-silvie-spreeuwenberg); Silvie Spreeuwenberg; XAI suggests something in between. It is still narrow AI but used in such a way that there is a feedback loop to the environment. The feedback loop may involve human intervention. We understand the scope of the narrow AI solution. We can adjust the solution when the task at hand requires more knowledge, or are warned in a meaningful way when the task at hand does not fit in the scope of the AI solution.
