@@ -221,6 +221,8 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 ### 2018
 
+* [Explainable AI](http://cdn.bdigital.org/PDF/BDC18/BDC18_ExplainableAI.pdf); Ricardo	Baeza-Yates; Big Data Congress 2018
+* [Trust and explainability: The relationship between humans & AI](http://www.imm.dtu.dk/~tobo/AI_chora2.pdf); Thomas Bolander;  The measure of success for AI applications is the value they create for human lives. In that light, they should be designed to enable people to understand AI systems successfully, participate in their use, and build their trust. AI technologies already pervade our lives. As they become a central force in society, the field is shifting from simply building systems that are intelligent to building intelligent systems that are human-aware and trustworthy.
 * [21 fairness definitions and their politics](https://fairmlbook.org/tutorial2.html); This tutorial has two goals. The first is to explain the technical definitions. In doing so, I will aim to make explicit the values embedded in each of them. This will help policymakers and others better understand what is truly at stake in debates about fairness criteria (such as individual fairness versus group fairness, or statistical parity versus error-rate equality). It will also help com­puter scientists recognize that the proliferation of definitions is to be celebrated, not shunned, and that the search for one true definition is not a fruitful direction, as technical considerations cannot adjudicate moral debates.
 * [Proceedings of the 2018 ICML Workshop on Human Interpretability in Machine Learning (WHI 2018)](https://arxiv.org/html/1807.01308)
 
