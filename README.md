@@ -4,6 +4,10 @@
 
 ### 2019
 
+* [iBreakDown: Uncertainty of Model Explanations for Non-additive Predictive Models](https://arxiv.org/abs/1903.11420); Alicja Gosiewska, Przemyslaw Biecek; Explainable Artificial Intelligence (XAI) brings a lot of attention recently. Explainability is being presented as a remedy for lack of trust in model predictions. Model agnostic tools such as LIME, SHAP, or Break Down promise instance level interpretability for any complex machine learning model. But how certain are these explanations? Can we rely on additive explanations for non-additive models? In this paper, we examine the behavior of model explainers under the presence of interactions. We define two sources of uncertainty, model level uncertainty, and explanation level uncertainty. We show that adding interactions reduces explanation level uncertainty. We introduce a new method iBreakDown that generates non-additive explanations with local interaction. 
+
+![images/ibreakdown.png](images/ibreakdown.png)
+
 * [VINE: Visualizing Statistical Interactions in Black Box Models](https://arxiv.org/abs/1904.00561); Matthew Britton; As machine learning becomes more pervasive, there is an urgent need for interpretable explanations of predictive models. Prior work has developed effective methods for visualizing global model behavior, as well as generating local (instance-specific) explanations. However, relatively little work has addressed regional explanations - how groups of similar instances behave in a complex model, and the related issue of visualizing statistical feature interactions. The lack of utilities available for these analytical needs hinders the development of models that are mission-critical, transparent, and align with social goals. We present VINE (Visual INteraction Effects), a novel algorithm to extract and visualize statistical interaction effects in black box models. We also present a novel evaluation metric for visualizations in the interpretable ML space. 
 
 ![images/vine.png](images/vine.png)
