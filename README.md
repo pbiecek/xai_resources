@@ -1,5 +1,11 @@
 # Interesting resources related to XAI (Explainable Artificial Intelligence)
 
+* [Papers and preprints in scientific journals](README.md#papers)
+* [Books and longer materials](README.md#books)
+* [Software tools](README.md#tools)
+* [Short articles in newspaper](README.md#articles)
+* [Misc](README.md#theses)
+
 ## Papers
 
 ### 2019
