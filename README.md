@@ -139,6 +139,10 @@
 
 ### 2017
 
+* [Interactive Graphics for Visually Diagnosing Forest Classifiers in R](https://arxiv.org/abs/1704.02502); Natalia da Silva, Dianne Cook, Eun-Kyung Lee; This paper describes structuring data and constructing plots to explore forest classification models interactively. A forest classifier is an example of an ensemble, produced by bagging multiple trees. The process of bagging and combining results from multiple trees, produces numerous diagnostics which, with interactive graphics, can provide a lot of insight into class structure in high dimensions. Various aspects are explored in this paper, to assess model complexity, individual model contributions, variable importance and dimension reduction, and uncertainty in prediction associated with individual observations. The ideas are applied to the random forest algorithm, and to the projection pursuit forest, but could be more broadly applied to other bagged ensembles.
+
+![images/ppforest.png](images/ppforest.png)
+
 * [Black Hat Visualization](https://idl.cs.washington.edu/files/2017-BlackHatVis-DECISIVe.pdf); Michael Correll, Jeffrey Heer; People lie, mislead, and bullshit in a myriad of ways. Visualizations,as a form of communication, are no exception to these tendencies.Yet, the language we use to describe how people can use visualiza-tions to mislead can be relatively sparse. For instance, one can be“lying with vis” or using “deceptive visualizations.” In this paper, weuse the language of computer security to expand the space of waysthat unscrupulous people (black hats) can manipulate visualizationsfor nefarious ends. In addition to forms of deception well-coveredin the visualization literature, we also focus on visualizations whichhave fidelity to the underlying data (and so may not be considereddeceptive in the ordinary use of the term in visualization), but stillhave negative impact on how data are perceived.  We encouragedesigners to think defensively and comprehensively about how theirvisual designs can result in data being misinterprete.
 
 ![images/correll_2017.png](images/correll_2017.png)
