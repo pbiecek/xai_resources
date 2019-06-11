@@ -230,6 +230,10 @@ We illustrate our notion using a case study of FICO credit scores.
 
 ### 2019
 
+* [InterpretML by Microsoft](https://github.com/microsoft/interpret); Python library by Microsoft related to explainability of ML models
+
+![interpretML.png](images/interpretML.png)
+
 * [Assessing Causality from Observational Data using Pearl's Structural Causal Models](https://blog.methodsconsultants.com/posts/pearl-causality/); 
 * [sklearn_explain](https://github.com/antoinecarme/sklearn_explain); Model explanation provides the ability to interpret the effect of the predictors on the composition of an individual score.
 * [heatmapping.org](http://www.heatmapping.org/); This webpage aims to regroup publications and software produced as part of a joint project at Fraunhofer HHI, TU Berlin and SUTD Singapore on developing new method to understand nonlinear predictions of state-of-the-art machine learning models. Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many case, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artefacts. The project studies in particular techniques to decompose the prediction in terms of contributions of individual input variables such that the produced decomposition (i.e. explanation) can be visualized in the same way as the input data.
