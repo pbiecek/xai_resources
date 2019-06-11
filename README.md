@@ -234,6 +234,10 @@ We illustrate our notion using a case study of FICO credit scores.
 
 ### 2019
 
+* [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/abs/1811.05577v2); Recent work has raised concerns on the risk of unintended bias in AI systems being used nowadays that can affect individuals unfairly based on race, gender or religion, among other possible characteristics. While a lot of bias metrics and fairness definitions have been proposed in recent years, there is no consensus on which metric/definition should be used and there are very few available resources to operationalize them.  Aequitas facilitates informed and equitable decisions around developing and deploying algorithmic decision making systems for both data scientists, machine learning researchers and policymakers. 
+
+![fairnessTree.png](images/fairnessTree.png)
+
 * [InterpretML by Microsoft](https://github.com/microsoft/interpret); Python library by Microsoft related to explainability of ML models
 
 ![interpretML.png](images/interpretML.png)
