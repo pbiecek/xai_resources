@@ -14,6 +14,10 @@
 
 ![images/biasedEmbedings.png](images/biasedEmbedings.png)
 
+* [Learning Explainable Models Using Attribution Priors](https://arxiv.org/abs/1906.10670); Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee; Two important topics in deep learning both involve incorporating humans into the modeling process: Model priors transfer information from humans to a model by constraining the model's parameters; Model attributions transfer information from a model to humans by explaining the model's behavior. We propose connecting these topics with attribution priors, which allow humans to use the common language of attributions to enforce prior expectations about a model's behavior during training. We develop a differentiable axiomatic feature attribution method called expected gradients and show how to directly regularize these attributions during training. We demonstrate the broad applicability of attribution priors: 1) on image data, 2) on gene expression data, 3) on a health care dataset.  
+
+![images/attributionPriors.png](images/attributionPriors.png)
+
 * [Concept Tree: High-Level Representation of Variables for More Interpretable Surrogate Decision Trees](https://arxiv.org/abs/1906.01297); Xavier Renard, Nicolas Woloszko, Jonathan Aigrain, Marcin Detyniecki; Interpretable surrogates of black-box predictors trained on high-dimensional tabular datasets can struggle to generate comprehensible explanations in the presence of correlated variables. We propose a model-agnostic interpretable surrogate that provides global and local explanations of black-box classifiers to address this issue. We introduce the idea of concepts as intuitive groupings of variables that are either defined by a domain expert or automatically discovered using correlation coefficients. Concepts are embedded in a surrogate decision tree to enhance its comprehensibility. 
 
 ![images/Trepan.png](images/Trepan.png)
