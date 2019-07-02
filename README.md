@@ -18,6 +18,8 @@
 
 ![images/attributionPriors.png](images/attributionPriors.png)
 
+* [Guidelines for Responsible and Human-Centered Use of Explainable Machine Learning](https://arxiv.org/abs/1906.03533); Patrick Hall; Explainable machine learning (ML) has been implemented in numerous open source and proprietary software packages and explainable ML is an important aspect of commercial predictive modeling. However, explainable ML can be misused, particularly as a faulty safeguard for harmful black-boxes, e.g. fairwashing, and for other malevolent purposes like model stealing. This text discusses definitions, examples, and guidelines that promote a holistic and human-centered approach to ML which includes interpretable (i.e. white-box ) models and explanatory, debugging, and disparate impact analysis techniques. 
+
 * [Concept Tree: High-Level Representation of Variables for More Interpretable Surrogate Decision Trees](https://arxiv.org/abs/1906.01297); Xavier Renard, Nicolas Woloszko, Jonathan Aigrain, Marcin Detyniecki; Interpretable surrogates of black-box predictors trained on high-dimensional tabular datasets can struggle to generate comprehensible explanations in the presence of correlated variables. We propose a model-agnostic interpretable surrogate that provides global and local explanations of black-box classifiers to address this issue. We introduce the idea of concepts as intuitive groupings of variables that are either defined by a domain expert or automatically discovered using correlation coefficients. Concepts are embedded in a surrogate decision tree to enhance its comprehensibility. 
 
 ![images/Trepan.png](images/Trepan.png)
