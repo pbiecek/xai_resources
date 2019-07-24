@@ -42,6 +42,10 @@
 
 ![images/SecretsOfML.png](images/SecretsOfML.png)
 
+* [Proposals for model vulnerability and security](https://www.oreilly.com/ideas/proposals-for-model-vulnerability-and-security); Patrick Hall;  Apply fair and private models, white-hat and forensic model debugging, and common sense to protect machine learning models from malicious actors. 
+
+![images/MLattack.png](images/MLattack.png)
+
 * [On Explainable Machine Learning Misconceptions and A More Human-Centered Machine Learning](https://github.com/jphall663/xai_misconceptions/blob/master/xai_misconceptions.pdf); Patrick Hall; Due to obvious community and commercial demand, explainable machine learning (ML) methods have already been implemented in popular open source software and in commercial software. Yet, as someone who has been involved in the implementation of explainable ML software for the past three years, I find a lot of what I read about the topic confusing and detached from my personal, hands-on experiences. This short text presents arguments, proposals, and references to address some observed explainable ML misconceptions. 
 
 ![images/xai_misconceptions.png](images/xai_misconceptions.png)
