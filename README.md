@@ -10,7 +10,6 @@
 
 ### 2019
 
-
 * [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730); Pang Wei Koh, Percy Liang;  How can we explain the predictions of a black-box model? In this paper, we use influence functions -- a classic technique from robust statistics -- to trace a model's prediction through the learning algorithm and back to its training data, thereby identifying training points most responsible for a given prediction. To scale up influence functions to modern machine learning settings, we develop a simple, efficient implementation that requires only oracle access to gradients and Hessian-vector products. We show that even on non-convex and non-differentiable models where the theory breaks down, approximations to influence functions can still provide valuable information. On linear models and convolutional neural networks, we demonstrate that influence functions are useful for multiple purposes: understanding model behavior, debugging models, detecting dataset errors, and even creating visually-indistinguishable training-set attacks. 
 
 ![images/influenceFunctions.png](images/influenceFunctions.png)
@@ -259,6 +258,13 @@ We illustrate our notion using a case study of FICO credit scores.
 
 
 ## Books
+
+### 2019
+
+* [Predictive Models: Explore, Explain, and Debug](https://github.com/pbiecek/PM_VEE); Przemyslaw Biecek, Tomasz Burzykowski. Today, the  bottleneck in predictive modelling is not the lack of data, nor the lack of computational power, nor inadequate algorithms, nor the lack of flexible models. It is the lack of tools for model validation, model exploration, and explanation of model decisions. Thus, in this book, we present a collection of methods that may be used for this purpose.
+
+![drwhy_local_explainers.png](images/drwhy_local_explainers.png)
+
 
 ### 2018
 
