@@ -446,6 +446,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 ## Other
 
+* All about explainable AI, algorithmic fairness and more by Andrey Sharapov [https://github.com/andreysharapov/xaience](https://github.com/andreysharapov/xaience)
 * FAT ML [Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/)
 * UW Interactive Data Lab  [IDL](https://idl.cs.washington.edu/papers/)
 * CS 294: Fairness in Machine Learning [Fairness Berkeley](https://fairmlclass.github.io/)
