@@ -295,6 +295,8 @@ We illustrate our notion using a case study of FICO credit scores.
 
 ![fairnessTree.png](images/fairnessTree.png)
 
+* [XAI library maintained by The Institute for Ethical AI & ML](https://github.com/EthicalML/xai) XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models. The XAI library is maintained by The Institute for Ethical AI & ML, and it was developed based on the [8 principles for Responsible Machine Learning](https://ethical.institute/principles.html).
+
 * [InterpretML by Microsoft](https://github.com/microsoft/interpret); Python library by Microsoft related to explainability of ML models
 
 ![interpretML.png](images/interpretML.png)
