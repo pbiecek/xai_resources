@@ -329,7 +329,7 @@ The 22 chapters included in this book provide a timely snapshot of algorithms, t
 
 * [iNNvestigate neural networks!](https://github.com/albermax/innvestigate); A toolbox created by authors of [heatmapping.org](http://www.heatmapping.org/) in the attempt to understand neural networks better. It contains implementations of e.g., Saliency, Deconvnet, GuidedBackprop, SmoothGrad, IntergratedGradients, LRP, PatternNet&-Attribution. This library provides a common interface and out-of-the-box implementation for many analysis methods. 
 
-![innvestigate.PNG](images/innvestigate.PNG)
+![innvestigate.PNG](images/innvestigate.png)
 
 * [ggeffects](https://strengejacke.wordpress.com/2019/01/14/ggeffects-0-8-0-now-on-cran-marginal-effects-for-regression-models-rstats/); Daniel Lüdecke; Compute marginal effects from statistical models and returns the result as tidy data frames. These data frames are ready to use with the 'ggplot2'-package. Marginal effects can be calculated for many different models. Interaction terms, splines and polynomial terms are also supported. The main functions are ggpredict(), ggemmeans() and ggeffect(). There is a generic plot()-method to plot the results using 'ggplot2'.
 
