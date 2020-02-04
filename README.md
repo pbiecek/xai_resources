@@ -8,6 +8,12 @@
 
 ## Papers
 
+### 2020
+
+* [Explaining the Explainer: A First Theoretical Analysis of LIME](https://arxiv.org/abs/2001.03447); Damien Garreau, Ulrike von Luxburg; Machine learning is used more and more often for sensitive applications, sometimes replacing humans in critical decision-making processes. As such, interpretability of these algorithms is a pressing need. One popular algorithm to provide interpretability is LIME (Local Interpretable Model-Agnostic Explanation). In this paper, we provide the first theoretical analysis of LIME. We derive closed-form expressions for the coefficients of the interpretable model when the function to explain is linear. The good news is that these coefficients are proportional to the gradient of the function to explain: LIME indeed discovers meaningful features. However, our analysis also reveals that poor choices of parameters can lead LIME to miss important features. 
+
+![extLIME](images/extLIME.png)
+
 ### 2019
 
 * [Randomized Ablation Feature Importance](https://arxiv.org/abs/1910.00174); Luke Merrick; Given a model f that predicts a target y from a vector of input features x=x1,x2,…,xM, we seek to measure the importance of each feature with respect to the model's ability to make a good prediction. To this end, we consider how (on average) some measure of goodness or badness of prediction (which we term "loss"), changes when we hide or ablate each feature from the model. To ablate a feature, we replace its value with another possible value randomly. By averaging over many points and many possible replacements, we measure the importance of a feature on the model's ability to make good predictions. Furthermore, we present statistical measures of uncertainty that quantify how confident we are that the feature importance we measure from our finite dataset and finite number of ablations is close to the theoretical true importance value. 
