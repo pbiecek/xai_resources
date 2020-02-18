@@ -337,6 +337,10 @@ The 22 chapters included in this book provide a timely snapshot of algorithms, t
 
 ### 2019
 
+* [ EthicalML / xai ](https://github.com/EthicalML/xai); XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models. The XAI library is maintained by The Institute for Ethical AI & ML, and it was developed based on the 8 principles for Responsible Machine Learning. You can find the documentation at https://ethicalml.github.io/xai/index.html. 
+
+![https://raw.githubusercontent.com/EthicalML/xai/master/images/readme-12.png](https://raw.githubusercontent.com/EthicalML/xai/master/images/readme-12.png)
+
 * [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/abs/1811.05577v2); Recent work has raised concerns on the risk of unintended bias in AI systems being used nowadays that can affect individuals unfairly based on race, gender or religion, among other possible characteristics. While a lot of bias metrics and fairness definitions have been proposed in recent years, there is no consensus on which metric/definition should be used and there are very few available resources to operationalize them.  Aequitas facilitates informed and equitable decisions around developing and deploying algorithmic decision making systems for both data scientists, machine learning researchers and policymakers. 
 
 ![fairnessTree.png](images/fairnessTree.png)
