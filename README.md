@@ -11,6 +11,10 @@
 
 ### 2020
 
+* [Adaptive Explainable Neural Networks (AxNNs)](https://arxiv.org/abs/2004.02353); Jie Chen, Joel Vaughan, Vijayan Nair, Agus Sudjianto; While machine learning techniques have been successfully applied in several fields, the black-box nature of the models presents challenges for interpreting and explaining the results. We develop a new framework called Adaptive Explainable Neural Networks (AxNN) for achieving the dual goals of good predictive performance and model interpretability. For predictive performance, we build a structured neural network made up of ensembles of generalized additive model networks and additive index models (through explainable neural networks) using a two-stage process. This can be done using either a boosting or a stacking ensemble. For interpretability, we show how to decompose the results of AxNN into main effects and higher-order interaction effects. 
+
+![AxNN](images/AxNN.png)
+
 * [Information Leakage in Embedding Models](https://arxiv.org/abs/2004.00053); Congzheng Song, Ananth Raghunathan; We demonstrate that embeddings, in addition to encoding generic semantics, often also present a vector that leaks sensitive information about the input data. We develop three classes of attacks to systematically study information that might be leaked by embeddings. First, embedding vectors can be inverted to partially recover some of the input data. Second, embeddings may reveal sensitive attributes inherent in inputs and independent of the underlying semantic task at hand. Third, embedding models leak moderate amount of membership information for infrequent training data inputs. We extensively evaluate our attacks on various state-of-the-art embedding models in the text domain. We also propose and evaluate defenses that can prevent the leakage to some extent at a minor cost in utility.
 
 ![InformationLeakage](images/InformationLeakage.png)
