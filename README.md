@@ -400,6 +400,10 @@ The 22 chapters included in this book provide a timely snapshot of algorithms, t
 
 ## Tools
 
+### 2020
+
+* [ explainx / explainx ](https://github.com/explainX/explainx); Explain any Black-Box Machine Learning Model with explainX.ai : Fast, Scalable & Interactive Explainable AI Platform. The explainX library is maintained by explainX.ai and incorporates an interactive user interface with state-of-the-art interpretibilty techniques in a single line of code. It also comes with API support to easily integrate the xAI module in data driven applications. You can find more details at https://www.explainx.ai.
+
 ### 2019
 
 * [ EthicalML / xai ](https://github.com/EthicalML/xai); XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models. The XAI library is maintained by The Institute for Ethical AI & ML, and it was developed based on the 8 principles for Responsible Machine Learning. You can find the documentation at https://ethicalml.github.io/xai/index.html. 
