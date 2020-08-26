@@ -401,6 +401,9 @@ The 22 chapters included in this book provide a timely snapshot of algorithms, t
 ## Tools
 
 ### 2019
+* [ ExplainX ](https://github.com/explainX/explainx); ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders in just one line of code. This library is maintained by the AI reearchers at New York University VIDA Lab. Detailed documentation can also be found on this [website](https://www.explainx.ai/)
+
+![https://camo.githubusercontent.com/03f9e0729544717710427ed393dae32b8d055159/68747470733a2f2f692e6962622e636f2f7734534631474a2f47726f75702d322d312e706e67](https://camo.githubusercontent.com/03f9e0729544717710427ed393dae32b8d055159/68747470733a2f2f692e6962622e636f2f7734534631474a2f47726f75702d322d312e706e67)
 
 * [ EthicalML / xai ](https://github.com/EthicalML/xai); XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models. The XAI library is maintained by The Institute for Ethical AI & ML, and it was developed based on the 8 principles for Responsible Machine Learning. You can find the documentation at https://ethicalml.github.io/xai/index.html. 
 
