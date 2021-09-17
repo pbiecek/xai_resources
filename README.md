@@ -8,6 +8,11 @@
 
 ## Papers
 
+### 2021
+
+* [Comparative evaluation of contribution-value plots for machine learning understanding](https://link.springer.com/article/10.1007/s12650-021-00776-w) The field of explainable artificial intelligence aims to help experts understand complex machine learning models. One key approach is to show the impact of a feature on the model prediction. This helps experts to verify and validate the predictions the model provides. However, many challenges remain open. For example, due to the subjective nature of interpretability, a strict definition of concepts such as the contribution of a feature remains elusive. Different techniques have varying underlying assumptions, which can cause inconsistent and conflicting views. In this work, we introduce local and global contribution-value plots as a novel approach to visualize feature impact on predictions and the relationship with feature value. We discuss design decisions and show an exemplary visual analytics implementation that provides new insights into the model. We conducted a user study and found the visualizations aid model interpretation by increasing correctness and confidence and reducing the time taken to obtain insights. [[website]](https://explaining.ml/cvplots)
+
+![CVPlots2021](images/CVPlots2021.jpg)
 
 ### 2020
 
